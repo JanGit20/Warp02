@@ -4,3 +4,4 @@
 
 Miejscowość: Gdańsk
 Ulica: Targ Drzewny
+Kraj: Polska
